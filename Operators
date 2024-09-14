@@ -6,10 +6,15 @@ int main()
  int num1=6;
  int num2=3;
 
+// Arithmetic operators
 cout<<num1+num2<<endl;
 cout<<num1-num2<<endl;
 cout<<num1*num2<<endl;
 cout<<num1/num2<<endl;
+// Relational operators
+cout <<numi==num2<<endl;
+cout<<num1!=num2<<endl;
+cout<<num1>=num2<<endl;
 
 return 0;
 }
