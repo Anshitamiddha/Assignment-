@@ -1,0 +1,21 @@
+Ans-1:-In single threaded language only single task is performed at once before moving to the next task.Meanwhile in multithreaded language, multiple task are being performed at the same time.
+Ans-2:- In a statically typed language, the type of variable used/datatype is  defined before compilations of code. Eg:- Java,C,C++.
+        In Dynamically typed language, datatype is not pre-defined . During the run time it is interpreted by the machine itself. Eg:-Javascript
+Ans-3:- High-level language is user-friendly language where user compose/work using code. It is a beginner friendly language i.e. C, C++ etc.
+        Low-level language is deep learning language which is quite difficult for the human to understand low level language as it machine luaguage that too in the form of binary language i.e. 0 and 1.
+Ans-4:- In compiled language, a code's compilation take place in one go and decreases time complexity. Eg:- C,C++ etc.
+        In interpreted language, compilation os a code /programme take palce line by line.Eg:-JAvascript
+Ans-5:-Javascript is a programming language or we can say it is a function enhancement language which is used to add functionality to a webpage.
+Ans-6:-Properties of Javascript are as follows:-
+       * It is Interpreted language.
+       * It is Dynamically Typed language        
+Ans-7:- result 1 will be true, as num1 and num2 are different types of datatypes.Meanwhile result2 is also true as the value of these two datatypes is same.
+ANs-8:- Output will be 64
+Ans-9:- False because b is greater than a but less than c. 
+Ans-10:- error will occur because const variable can neither be reassigned nor be redeclared.
+Ans-12:- x will be 3, y will be 3.
+Ans-11:-Undeclared is variable which has not been declared as const,let,var. whereas null variable is a variable which has been assigned as null value.
+Ans-13:- == this operator comapres only the value of the variable, === is strict operator it also checks the value as well as datatype of the variable.
+          true as value is same, false as data type string of the second variable.
+Ans-14:- false,true,false
+Ans-15:- final answer would be 30.
