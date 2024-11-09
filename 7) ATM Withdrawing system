@@ -1,0 +1,10 @@
+// ATM withdrawl System 
+let a=800 //a=amount to be withdrawn
+let b=1500 // b=balance in the account
+if(a<=b)
+{
+    console.log(" WIthdrawn Successfully")
+}
+else{
+    console.log(" Insufficient Funds")
+}
