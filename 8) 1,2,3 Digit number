@@ -1,0 +1,12 @@
+let a=500 // enter 1/2/3 digit number
+if(a>99 && a<1000)
+{
+    console.log("Three digit number")
+}
+else if(a>9 && a<100)
+{
+    console.log("Two digit number")
+}
+else{
+    console.log(" One digit number")
+}
