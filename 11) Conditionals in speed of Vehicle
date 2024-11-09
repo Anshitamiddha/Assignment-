@@ -1,0 +1,12 @@
+let sp = 85
+if( sp<=60)
+{
+    console.log("Speed is Normal")
+}
+else if(sp>60 && sp<100)
+{
+    console.log("Speed is high")
+}
+else{
+    console.log("Speed is too high")
+}
