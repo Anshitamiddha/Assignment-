@@ -1,0 +1,9 @@
+let a = 68
+if(a>=90){
+    console.log("Grade A") }
+else if(a>=75 ){
+    console.log("Grade B") }
+else if (a>=50){
+    console.log("Grade C")}
+else{
+    console.log("Grade F")}
