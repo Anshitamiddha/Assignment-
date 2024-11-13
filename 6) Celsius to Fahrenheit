@@ -1,0 +1,15 @@
+let c = 110
+var f
+
+console.log(f=(c*1.8) + 32)
+if(c>100)
+{
+    console.log("Above Boiling point")
+}
+else if(c<0)
+{
+    console/log("Below freezing  Point")
+}
+else{
+    console.log("NOne")
+}
